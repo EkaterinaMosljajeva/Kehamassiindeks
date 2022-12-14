@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kehamassiindeks", "Kehamassiindeks.pyproj", "{C690B5C6-1E6A-41FC-85FD-A1C2E1252037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C690B5C6-1E6A-41FC-85FD-A1C2E1252037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C690B5C6-1E6A-41FC-85FD-A1C2E1252037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A23443-516B-4695-B744-76581B72BD65}
+	EndGlobalSection
+EndGlobal
